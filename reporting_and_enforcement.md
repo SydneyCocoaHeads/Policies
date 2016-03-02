@@ -14,7 +14,7 @@ different avenues for reporting.
 * Personally, to any member of the Values and Diversity
   committee. These people are yet to be announced, and in the mean
   time, you can contact the reporting mentors, who are Fiona Chan
-  <todo@email.com> and Manuel Chakravarty <todo@email.com>.
+  <fiona@fionachan.net> and Manuel Chakravarty <mchakravarty@me.com>.
 * Anonymously, at
   <https://sydneycocoaheads.wufoo.com/forms/sydney-cocoaheads-values-and-standards-reporting/>.
   Anonymous reports will go to all members of the organising committee
