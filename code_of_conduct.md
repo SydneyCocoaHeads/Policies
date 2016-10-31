@@ -4,7 +4,7 @@ Code of Conduct
 Be respectful
 -------------
 
-Respect yourself, and respect others. Be courteous to those around
+Respect others, and respect yourself. Be courteous to those around
 you. If someone indicates they don't wish to be photographed, respect
 that wish. If someone indicates they would like to be left alone, let
 them be. Our event venues and online spaces may be shared with members
@@ -62,7 +62,7 @@ which are not appropriate:
 * unwanted photography or recording;
 * sustained disruption of talks or other events;
 * drunk or under the influence of illegal drugs at an event venue;
-* inappropriate physical contact;
+* physical contact without consent;
 * unwelcome sexual attention;
 * sexist, racist, or other exclusionary jokes;
 * unwarranted exclusion from conference or related events based on
